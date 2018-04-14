@@ -1,4 +1,5 @@
 # AngularHapi
+A simple FullStack Angular 5 App using Nodejs, hapijs,mongoDB & Mongoose.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
